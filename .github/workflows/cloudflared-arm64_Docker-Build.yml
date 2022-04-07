@@ -2,7 +2,7 @@ name: Cloudflared ARM64 Docker Build
 
 on:
   schedule:
-    - cron: '* * 8 * *'
+    - cron: '* * 28 * *'
   workflow_dispatch:
     
 jobs:
